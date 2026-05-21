@@ -1,5 +1,7 @@
 # BigWall Sport Email Template
 
+https://elenkar14-netizen.github.io/bigwall_sport/
+
 HTML email template for **BigWall Sport**, a climbing gym chain.
 
 The project contains a ready-to-use email layout created for CRM and promotional communication. The email can be adapted for newsletters, announcements, seasonal campaigns, special offers, and customer retention flows.
