@@ -9,6 +9,13 @@
 <style type="text/css">
   body, table, td, h1, h2, h3, p, span, a {font-family: Arial, Helvetica, sans-serif !important;}
 </style>
+<noscript>
+<xml>
+<o:OfficeDocumentSettings>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+</noscript>
 <![endif]-->
 <style type="text/css">
   @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800;900&display=swap');
@@ -16,11 +23,19 @@
   table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
   img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
   body { margin: 0; padding: 0; width: 100% !important; background-color: #F1EFE9; }
+  /* Fluid-hybrid column base — stacks without media queries */
+  .col-2 {
+    display: inline-block;
+    width: 100%;
+    max-width: 264px;
+    vertical-align: top;
+  }
+  /* Progressive enhancement for clients that DO support media queries */
   @media only screen and (max-width: 620px) {
     .container { width: 100% !important; }
     .mob-pad { padding-left: 20px !important; padding-right: 20px !important; }
     .hero-title { font-size: 32px !important; line-height: 1.05 !important; }
-    .card-cell { display: block !important; width: 100% !important; padding: 5px 0 !important; }
+    .col-2 { max-width: 100% !important; display: block !important; }
     .hero-img { width: 100% !important; }
     .footer-links { font-size: 12px !important; }
     .cta-btn { padding: 16px 32px !important; font-size: 15px !important; }
@@ -30,17 +45,25 @@
 <body style="margin:0; padding:0; background-color:#F1EFE9;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#F1EFE9;">
 <tr><td align="center" style="padding: 24px 10px;">
-<!-- MAIN CONTAINER -->
-<table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; background-color:#FFFFFF; border-radius:24px; overflow:hidden;">
+
+<!-- GHOST TABLE for Outlook — constrains max width -->
+<!--[if mso]>
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" align="center"><tr><td>
+<![endif]-->
+
+<!-- MAIN CONTAINER — fluid-hybrid: 100% width, max-width 600px -->
+<div style="width:100%; max-width:600px; margin:0 auto; background-color:#FFFFFF; border-radius:24px; overflow:hidden;">
+<table role="presentation" class="container" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#FFFFFF;">
+
   <!-- ======== LOGO ======== -->
   <tr>
-    <td align="center" style="padding: 32px 40px 20px;">
+    <td align="center" style="padding: 28px 40px 16px;">
       <a href="https://bigwallsport.ru/" target="_blank" style="text-decoration:none;">
-        <!-- ⚠️ ЗАГРУЗИТЕ Бигвол_logo_black.png в UniSender и вставьте URL ниже -->
-        <img src="https://img.hiteml.com/en/v5/user-files?userId=8150114&resource=himg&disposition=inline&name=6xjmx3tzrfuuymb4goqqhr1cu5q6e3drczo35sfkxhznzweznqe96p3ewhwm31aeh1bjuqkkabachjh7pfjpsuscwrr" alt="Бигвол — скалодром" width="180" style="display:block; width:180px; height:auto;">
+        <img src="https://img.hiteml.com/en/v5/user-files?userId=8150114&resource=himg&disposition=inline&name=6xjmx3tzrfuuymb4goqqhr1cu5q6e3drczo35sfkxhznzweznqe96p3ewhwm31aeh1bjuqkkabachjh7pfjpsuscwrr" alt="Бигвол — скалодром" width="120" style="display:block; width:120px; height:auto;">
       </a>
     </td>
   </tr>
+
   <!-- ======== TAG BADGE ======== -->
   <tr>
     <td align="center" style="padding: 0 40px 16px;">
@@ -53,6 +76,7 @@
       </table>
     </td>
   </tr>
+
   <!-- ======== HERO TITLE ======== -->
   <tr>
     <td class="mob-pad" style="padding: 4px 36px 20px;">
@@ -62,12 +86,14 @@
       </h1>
     </td>
   </tr>
+
   <!-- ======== HERO IMAGE ======== -->
   <tr>
     <td class="mob-pad" style="padding: 0px 20px 0px 39px;">
-      <a href="https://bigwallsport.ru/prices" target="_blank"><img class="hero-img" src="https://img.hiteml.com/en/v5/user-files?userId=8150114&resource=himg&disposition=inline&name=6x75mjfkxgisddb4goqqhr1cu5q6e3drczo35sfc8s8smygtrt9d938rn7bq4e3rrouafbjj3nkihohe3ika3i97abik1wdk9776z1397a51rbdjza77o" width="560" style="display:block; width:100%; height:auto; border-radius:20px;" alt="Скалодром Бигвол в Лужниках под открытым небом"></a>
+      <a href="https://bigwallsport.ru/prices" target="_blank"><img class="hero-img" src="https://img.hiteml.com/en/v5/user-files?userId=8150114&resource=himg&disposition=inline&name=6x75mjfkxgisddb4goqqhr1cu5q6e3drczo35sfc8s8smygtrt9d938rn7bq4e3rrouafbjj3nkihohe3ika3i97abik1wdk9776z1397a51rbdjza77o" width="560" style="display:block; width:100%; max-width:560px; height:auto; border-radius:20px;" alt="Скалодром Бигвол в Лужниках под открытым небом"></a>
     </td>
   </tr>
+
   <!-- ======== INTRO TEXT ======== -->
   <tr>
     <td class="mob-pad" style="padding: 28px 36px 0;">
@@ -85,6 +111,7 @@
       </p>
     </td>
   </tr>
+
   <!-- ======== CTA BUTTON (TOP) ======== -->
   <tr>
     <td align="center" style="padding: 28px 36px 0;">
@@ -106,6 +133,7 @@
       </table>
     </td>
   </tr>
+
   <!-- ======== SECTION TITLE ======== -->
   <tr>
     <td class="mob-pad" style="padding: 36px 36px 16px;">
@@ -114,14 +142,19 @@
       </h2>
     </td>
   </tr>
-  <!-- ======== 4 FEATURE CARDS (2x2) ======== -->
+
+  <!-- ======== 4 FEATURE CARDS — Fluid-hybrid 2-column layout ======== -->
   <tr>
-    <td class="mob-pad" style="padding: 0 28px;">
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-        <!-- ROW 1 -->
-        <tr>
-          <!-- Card 1: LIME — 90 трасс на боулдере -->
-          <td class="card-cell" width="50%" valign="top" style="padding: 6px;">
+    <td class="mob-pad" style="padding: 0 28px; text-align: center; font-size: 0;">
+
+      <!-- ROW 1 -->
+      <!--[if mso]>
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"><tr>
+      <td width="264" valign="top">
+      <![endif]-->
+      <div class="col-2" style="display:inline-block; width:100%; max-width:264px; vertical-align:top;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tr><td style="padding: 6px;">
             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#D4E157; border-radius: 20px;">
               <tr>
                 <td style="padding: 22px 20px 8px;">
@@ -139,18 +172,25 @@
               </tr>
               <tr>
                 <td style="padding: 4px 20px 5px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px;">Новых трасс<br>на боулдере</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px; text-align:left;">Новых трасс<br>на боулдере</p>
                 </td>
               </tr>
               <tr>
                 <td style="padding: 4px 20px 22px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55;">Короткие, яркие задачи&nbsp;— честный разговор с&nbsp;гравитацией</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55; text-align:left;">Короткие, яркие задачи&nbsp;— честный разговор с&nbsp;гравитацией</p>
                 </td>
               </tr>
             </table>
-          </td>
-          <!-- Card 2: MINT — 66 трасс на трудности -->
-          <td class="card-cell" width="50%" valign="top" style="padding: 6px;">
+          </td></tr>
+        </table>
+      </div>
+      <!--[if mso]>
+      </td>
+      <td width="264" valign="top">
+      <![endif]-->
+      <div class="col-2" style="display:inline-block; width:100%; max-width:264px; vertical-align:top;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tr><td style="padding: 6px;">
             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#C5E8CE; border-radius: 20px;">
               <tr>
                 <td style="padding: 22px 20px 8px;">
@@ -168,21 +208,30 @@
               </tr>
               <tr>
                 <td style="padding: 4px 20px 5px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px;">Трасс<br>на трудности</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px; text-align:left;">Трасс<br>на трудности</p>
                 </td>
               </tr>
               <tr>
                 <td style="padding: 4px 20px 22px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55;">Высота от&nbsp;12 до&nbsp;16&nbsp;м&nbsp;— подняться выше обычного</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55; text-align:left;">Высота от&nbsp;12 до&nbsp;16&nbsp;м&nbsp;— подняться выше обычного</p>
                 </td>
               </tr>
             </table>
-          </td>
-        </tr>
-        <!-- ROW 2 -->
-        <tr>
-          <!-- Card 3: BLUE — 8 маршрутов с автостраховкой -->
-          <td class="card-cell" width="50%" valign="top" style="padding: 6px;">
+          </td></tr>
+        </table>
+      </div>
+      <!--[if mso]>
+      </td></tr></table>
+      <![endif]-->
+
+      <!-- ROW 2 -->
+      <!--[if mso]>
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"><tr>
+      <td width="264" valign="top">
+      <![endif]-->
+      <div class="col-2" style="display:inline-block; width:100%; max-width:264px; vertical-align:top;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tr><td style="padding: 6px;">
             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#C4D8F0; border-radius: 20px;">
               <tr>
                 <td style="padding: 22px 20px 8px;">
@@ -200,18 +249,25 @@
               </tr>
               <tr>
                 <td style="padding: 4px 20px 5px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px;">Маршрутов<br>с&nbsp;автостраховкой</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px; text-align:left;">Маршрутов<br>с&nbsp;автостраховкой</p>
                 </td>
               </tr>
               <tr>
                 <td style="padding: 4px 20px 22px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55;">Пробуй в&nbsp;своём темпе, с&nbsp;друзьями или&nbsp;solo</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55; text-align:left;">Пробуй в&nbsp;своём темпе, с&nbsp;друзьями или&nbsp;solo</p>
                 </td>
               </tr>
             </table>
-          </td>
-          <!-- Card 4: SAND — Открытый воздух -->
-          <td class="card-cell" width="50%" valign="top" style="padding: 6px;">
+          </td></tr>
+        </table>
+      </div>
+      <!--[if mso]>
+      </td>
+      <td width="264" valign="top">
+      <![endif]-->
+      <div class="col-2" style="display:inline-block; width:100%; max-width:264px; vertical-align:top;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tr><td style="padding: 6px;">
             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#EBE8D2; border-radius: 20px;">
               <tr>
                 <td style="padding: 22px 20px 8px;">
@@ -229,20 +285,25 @@
               </tr>
               <tr>
                 <td style="padding: 4px 20px 5px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px;">Открытый&nbsp;<br>воздух</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px; text-align:left;">Открытый&nbsp;<br>воздух</p>
                 </td>
               </tr>
               <tr>
                 <td style="padding: 4px 20px 22px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55;">Тренировка, прогулка и&nbsp;приключение в&nbsp;один вечер</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55; text-align:left;">Тренировка, прогулка и&nbsp;приключение в&nbsp;один вечер</p>
                 </td>
               </tr>
             </table>
-          </td>
-        </tr>
-      </table>
+          </td></tr>
+        </table>
+      </div>
+      <!--[if mso]>
+      </td></tr></table>
+      <![endif]-->
+
     </td>
   </tr>
+
   <!-- ======== DIVIDER ======== -->
   <tr>
     <td style="padding: 32px 36px 0;">
@@ -251,6 +312,7 @@
       </table>
     </td>
   </tr>
+
   <!-- ======== PRICING SECTION ======== -->
   <tr>
     <td class="mob-pad" style="padding: 28px 36px 0;">
@@ -260,11 +322,15 @@
     </td>
   </tr>
   <tr>
-    <td class="mob-pad" style="padding: 0 28px;">
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tr>
-          <!-- Price card: Разовый вход -->
-          <td class="card-cell" width="50%" valign="top" style="padding: 6px;">
+    <td class="mob-pad" style="padding: 0 28px; text-align: center; font-size: 0;">
+
+      <!--[if mso]>
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"><tr>
+      <td width="264" valign="top">
+      <![endif]-->
+      <div class="col-2" style="display:inline-block; width:100%; max-width:264px; vertical-align:top;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tr><td style="padding: 6px;">
             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#D4E157; border-radius: 20px;">
               <tr>
                 <td style="padding: 22px 20px 8px;">
@@ -273,18 +339,25 @@
               </tr>
               <tr>
                 <td style="padding: 4px 20px 5px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px;">Разовый вход</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px; text-align:left;">Разовый вход</p>
                 </td>
               </tr>
               <tr>
                 <td style="padding: 4px 20px 22px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55;">Безлимитное посещение на&nbsp;весь день</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55; text-align:left;">Безлимитное посещение на&nbsp;весь день</p>
                 </td>
               </tr>
             </table>
-          </td>
-          <!-- Price card: Абонементы -->
-          <td class="card-cell" width="50%" valign="top" style="padding: 6px;">
+          </td></tr>
+        </table>
+      </div>
+      <!--[if mso]>
+      </td>
+      <td width="264" valign="top">
+      <![endif]-->
+      <div class="col-2" style="display:inline-block; width:100%; max-width:264px; vertical-align:top;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tr><td style="padding: 6px;">
             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#C5E8CE; border-radius: 20px;">
               <tr>
                 <td style="padding: 22px 20px 8px;">
@@ -293,20 +366,25 @@
               </tr>
               <tr>
                 <td style="padding: 4px 20px 5px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px;">Абонементы</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:800; color:#0A0A0A; text-transform:uppercase; margin:0; line-height:1.35; letter-spacing:0.3px; text-align:left;">Абонементы</p>
                 </td>
               </tr>
               <tr>
                 <td style="padding: 4px 20px 22px;">
-                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55;">На&nbsp;1&nbsp;месяц или на&nbsp;проходки&nbsp;</p>
+                  <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#3D3D3D; margin:0; line-height:1.55; text-align:left;">На&nbsp;1&nbsp;месяц или на&nbsp;проходки&nbsp;</p>
                 </td>
               </tr>
             </table>
-          </td>
-        </tr>
-      </table>
+          </td></tr>
+        </table>
+      </div>
+      <!--[if mso]>
+      </td></tr></table>
+      <![endif]-->
+
     </td>
   </tr>
+
   <!-- ======== DIVIDER 2 ======== -->
   <tr>
     <td style="padding: 32px 36px 0;">
@@ -315,6 +393,7 @@
       </table>
     </td>
   </tr>
+
   <!-- ======== LOCATION SECTION ======== -->
   <tr>
     <td class="mob-pad" style="padding: 28px 36px 0;">
@@ -365,6 +444,7 @@
       </p>
     </td>
   </tr>
+
   <!-- ======== CTA BUTTON ======== -->
   <tr>
     <td align="center" style="padding: 32px 36px 8px;">
@@ -386,6 +466,7 @@
       </table>
     </td>
   </tr>
+
   <!-- Sign-off -->
   <tr>
     <td class="mob-pad" style="padding: 18px 36px 0;">
@@ -397,11 +478,11 @@
       </p>
     </td>
   </tr>
+
   <!-- ======== FOOTER ======== -->
   <tr>
     <td style="padding: 36px 36px 28px;">
       <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1.5px solid #E9E7E1;">
-        <!-- Links Row 1 -->
         <tr>
           <td align="center" style="padding-top: 24px; padding-bottom: 10px;">
             <p class="footer-links" style="font-family:'Inter Tight',Arial,sans-serif; font-size:13px; font-weight:600; color:#999; margin:0; line-height:1.6;">
@@ -413,7 +494,6 @@
             </p>
           </td>
         </tr>
-        <!-- Links Row 2 -->
         <tr>
           <td align="center" style="padding-bottom: 16px;">
             <p class="footer-links" style="font-family:'Inter Tight',Arial,sans-serif; font-size:13px; font-weight:600; color:#999; margin:0; line-height:1.6;">
@@ -425,7 +505,6 @@
             </p>
           </td>
         </tr>
-        <!-- Unsub -->
         <tr>
           <td align="center">
             <p style="font-family:'Inter Tight',Arial,sans-serif; font-size:11px; color:#C7C7C2; margin:0; line-height:1.6;">
@@ -438,7 +517,13 @@
     </td>
   </tr>
 </table>
+</div>
 <!-- /MAIN CONTAINER -->
+
+<!--[if mso]>
+</td></tr></table>
+<![endif]-->
+
 </td></tr>
 </table>
 </body>
