@@ -1,6 +1,6 @@
 # BigWall Sport Email Template
 
-https://elenkar14-netizen.github.io/corporate-training.html
+https://elenkar14-netizen.github.io/bigwall_sport/corporate-training.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/
 
