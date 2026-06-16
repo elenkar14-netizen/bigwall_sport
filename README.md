@@ -6,8 +6,6 @@ https://elenkar14-netizen.github.io/bigwall_sport/
 
 https://elenkar14-netizen.github.io/bigwall_sport/21-days-v1.html
 
-https://elenkar14-netizen.github.io/bigwall_sport/21-days-v2.html
-
 HTML email template for **BigWall Sport**, a climbing gym chain.
 
 The project contains a ready-to-use email layout created for CRM and promotional communication. The email can be adapted for newsletters, announcements, seasonal campaigns, special offers, and customer retention flows.
