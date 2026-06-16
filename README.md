@@ -4,7 +4,7 @@ https://elenkar14-netizen.github.io/bigwall_sport/corporate-training.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/
 
-https://elenkar14-netizen.github.io/bigwall_sport/21-days-v1
+https://elenkar14-netizen.github.io/bigwall_sport/21-days-v1.html
 
 HTML email template for **BigWall Sport**, a climbing gym chain.
 
