@@ -6,9 +6,9 @@ https://elenkar14-netizen.github.io/bigwall_sport/
 
 https://elenkar14-netizen.github.io/bigwall_sport/21-days-v1.html
 
-https://elenkar14-netizen.github.io/bigwall_sport/21days.html
+https://elenkar14-netizen.github.io/bigwall_sport/21days
 
-https://elenkar14-netizen.github.io/bigwall_sport/app.html
+https://elenkar14-netizen.github.io/bigwall_sport/app
 
 
 
