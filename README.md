@@ -14,6 +14,8 @@ https://elenkar14-netizen.github.io/bigwall_sport/1stage.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/21-days-v2.html
 
+https://elenkar14-netizen.github.io/bigwall_sport/3_trial-session.html
+
 https://elenkar14-netizen.github.io/bigwall_sport/1_trial-session.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/2_trial-session.html
