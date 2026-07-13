@@ -1,0 +1,179 @@
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Напоминание о записи &mdash; пробное занятие завтра</title>
+	<!--[if mso]>
+<style type="text/css">
+  body, table, td, h1, h2, h3, p, span, a {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<noscript><xml></xml></noscript>
+<![endif]-->
+	<style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800;900&display=swap');
+  body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+  table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+  img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+  body { margin: 0; padding: 0; width: 100% !important; background-color: #F1EFE9; }
+  .preheader { display: none; max-height: 0; overflow: hidden; mso-hide: all; font-size: 1px; line-height: 1px; color: #F1EFE9; opacity: 0; }
+  @media only screen and (max-width: 620px) {
+    .container { width: 100% !important; }
+    .mob-pad { padding-left: 22px !important; padding-right: 22px !important; }
+    .hero-img { width: 100% !important; }
+    .footer-links { font-size: 12px !important; }
+    .info-row td { padding-top:12px !important; padding-bottom:12px !important; }
+  }
+	</style>
+</head>
+<body style="margin:0; padding:0; background-color:#F1EFE9;">
+<div class="preheader">Что взять с собой и во сколько приходить</div>
+
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F1EFE9;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" style="padding: 24px 10px;"><!--[if mso]>
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" align="center"><tr><td>
+<![endif]-->
+			<div style="width:100%; max-width:600px; margin:0 auto; background-color:#FFFFFF; border-radius:24px; overflow:hidden;">
+			<table border="0" cellpadding="0" cellspacing="0" class="container" role="presentation" style="background-color:#FFFFFF;" width="100%">
+				<tbody>
+					<tr>
+						<td align="center" style="padding: 18px 40px 0;">
+						<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:12px; font-weight:500; color:#A8A6A0; margin:0; line-height:1.5;"><a href="{{WebLetterUrl}}" style="color:#A8A6A0; text-decoration:underline;" target="_blank">Посмотреть письмо в&nbsp;браузере</a></p>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td align="center" style="padding: 28px 40px 18px;"><a href="https://bigwallsport.ru/" style="text-decoration:none;" target="_blank"><img alt="Бигвол — скалодром" src="https://img.hiteml.com/en/v5/user-files?userId=8150114&amp;resource=himg&amp;disposition=inline&amp;name=6xjmx3tzrfuuymb4goqqhr1cu5q6e3drczo35sfkxhznzweznqe96p3ewhwm31aeh1bjuqkkabachjh7pfjpsuscwrr" style="display:block; width:120px; height:auto;" width="120" /></a></td>
+					</tr>
+					<!-- ======== HERO BANNER ======== -->
+					<tr>
+						<td style="padding: 0;"><img alt="Напоминание о записи — до первой трассы один день" class="hero-img" src="https://img.hiteml.com/en/v5/user-files?userId=8150114&amp;resource=himg&amp;disposition=inline&amp;name=6zba51fefu9cezb4goqqhr1cu5q6jq7913cmoabaa7szgjdhnserbxdmahu5yharp6xx1sy4c7ookeyaqd195rqem7tuqo3ofb1hgw4bzx3ywea3ttcny" style="display: block; width: 100%; max-width: 600px;" /></td>
+					</tr>
+					<!-- ======== OPENING TEXT (climbing hook first — CEO rule) ======== -->
+					<tr>
+						<td class="mob-pad" style="padding: 30px 36px 0;">
+						<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:15px; font-weight:500; line-height:1.7; color:#2A261B; margin:0 0 16px;">Привет!</p>
+
+						<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:15px; font-weight:500; line-height:1.7; color:#2A261B; margin:0 0 16px;">Всё начинается с&nbsp;движения вверх. Завтра&nbsp;&mdash; ваше первое: тренер покажет технику безопасности и&nbsp;базовые движения.</p>
+
+						<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:15px; font-weight:800; line-height:1.7; color:#0A0A0A; margin:0;">Специальная подготовка не&nbsp;нужна. Опыт тоже.</p>
+						</td>
+					</tr>
+					<!-- ======== ГЕНЕРИЧЕСКИЙ БЛОК ВМЕСТО ДАТЫ/ВРЕМЕНИ/МЕСТА ======== -->
+					<tr>
+						<td class="mob-pad" style="padding: 26px 36px 0;">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F6F4EF; border-radius:18px;" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding:20px 24px;">
+									<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:14px; font-weight:500; line-height:1.65; color:#2A261B; margin:0;">Всё как договаривались&nbsp;&mdash; приходите ко&nbsp;времени записи, паспорт брать не&nbsp;нужно.</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<!-- ======== ЧТО ВЗЯТЬ С СОБОЙ ======== -->
+					<tr>
+						<td class="mob-pad" style="padding: 30px 36px 0;">
+						<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:16px; font-weight:800; text-transform:uppercase; letter-spacing:0.2px; color:#0A0A0A; margin:0 0 12px;">Что взять с собой</p>
+
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding:0 0 6px;">
+									<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:15px; font-weight:500; line-height:1.6; color:#2A261B; margin:0;">&bull;&nbsp; удобную спортивную одежду</p>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:0 0 0;">
+									<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:15px; font-weight:500; line-height:1.6; color:#2A261B; margin:0;">&bull;&nbsp; бутылку воды</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<!-- ======== TIP BOX ======== -->
+					<tr>
+						<td class="mob-pad" style="padding: 16px 36px 0;">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F6F4EF; border-radius:16px;" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding:16px 20px;">
+									<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+										<tbody>
+											<tr>
+												<td style="font-size:16px; line-height:1.5;" valign="top" width="26">👟</td>
+												<td style="padding-left:8px;" valign="top">
+												<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:13px; font-weight:600; line-height:1.5; color:#2A261B; margin:0;">Скальники и&nbsp;магнезию можно взять на&nbsp;месте.</p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="mob-pad" style="padding: 20px 36px 0;">
+						<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:15px; font-weight:500; line-height:1.7; color:#2A261B; margin:0;">Приходите за&nbsp;10&nbsp;минут до&nbsp;начала, чтобы переодеться и&nbsp;настроиться.</p>
+						</td>
+					</tr>
+					<!-- ======== SIGN-OFF ======== -->
+					<tr>
+						<td class="mob-pad" style="padding: 30px 36px 0;">
+						<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:16px; font-weight:800; text-transform:uppercase; letter-spacing:0.2px; line-height:1.3; color:#0A0A0A; margin:0;">Увидимся на&nbsp;<span style="white-space:nowrap;">Большой&nbsp;стене!&nbsp;🤼🏼&zwnj;🤽🏼</span></p>
+						</td>
+					</tr>
+					<!-- ======== P.S. ======== -->
+					<tr>
+						<td class="mob-pad" style="padding: 24px 36px 0;">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+							<tbody>
+								<tr>
+									<td style="border-top:1.5px solid #E9E7E1; padding-top:18px;">
+									<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:14px; font-weight:500; line-height:1.6; color:#6B6B6B; margin:0;">Планы изменились? Напишите в&nbsp;<a href="https://t.me/BW_sport_bot" style="color:#0A0A0A; font-weight:700; text-decoration:underline;">Telegram-бот</a>&nbsp;&mdash; поможем перенести запись.</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<!-- ======== FOOTER ======== -->
+					<tr>
+						<td style="padding: 34px 36px 28px;">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-top: 1.5px solid #E9E7E1;" width="100%">
+							<tbody>
+								<tr>
+									<td align="center" style="padding-top: 24px; padding-bottom: 10px;">
+									<p class="footer-links" style="font-family:'Inter Tight',Arial,sans-serif; font-size:13px; font-weight:600; color:#999; margin:0; line-height:1.6;"><a href="https://bigwallsport.ru/" style="color:#999; text-decoration:none;">bigwallsport.ru</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp; <a href="tel:+74996537828" style="color:#999; text-decoration:none;">+7 (499) 653-78-28</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp; <a href="mailto:info@bigwallsport.ru" style="color:#999; text-decoration:none;">info@bigwallsport.ru</a></p>
+									</td>
+								</tr>
+								<tr>
+									<td align="center" style="padding-bottom: 10px;">
+									<p class="footer-links" style="font-family:'Inter Tight',Arial,sans-serif; font-size:13px; font-weight:600; color:#999; margin:0; line-height:1.6;"><a href="https://t.me/bigwall" style="color:#999; text-decoration:none;">Telegram</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp; <a href="https://t.me/BW_sport_bot" style="color:#999; text-decoration:none;">Бот</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp; <a href="https://vk.com/bigwallsport" style="color:#999; text-decoration:none;">ВКонтакте</a></p>
+									</td>
+								</tr>
+								<tr>
+									<td align="center">
+									<p style="font-family:'Inter Tight',Arial,sans-serif; font-size:11px; color:#C7C7C2; margin:0; line-height:1.6;">Вы получили это письмо, потому что записались на&nbsp;занятие в&nbsp;Бигволе.<br />
+									<a href="{{UnsubscribeUrl}}" style="color:#C7C7C2; text-decoration:underline;">Отписаться от рассылки</a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!--[if mso]>
+</td></tr></table>
+<![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
