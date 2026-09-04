@@ -28,6 +28,7 @@ https://elenkar14-netizen.github.io/bigwall_sport/dinamo.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/dinamo_open.html
 
+https://elenkar14-netizen.github.io/bigwall_sport/trial_training.html
 
 HTML email template for **BigWall Sport**, a climbing gym chain.
 
