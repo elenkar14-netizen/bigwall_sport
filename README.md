@@ -38,6 +38,8 @@ https://elenkar14-netizen.github.io/bigwall_sport/masters_1.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/false_start.html
 
+https://elenkar14-netizen.github.io/bigwall_sport/masters_newbies.html
+
 
 HTML email template for **BigWall Sport**, a climbing gym chain.
 
