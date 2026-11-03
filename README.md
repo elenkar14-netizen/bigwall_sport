@@ -54,6 +54,8 @@ https://elenkar14-netizen.github.io/bigwall_sport/year_offer.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/year_offer_2.html
 
+https://elenkar14-netizen.github.io/bigwall_sport/students_year.html
+
 
 HTML email template for **BigWall Sport**, a climbing gym chain.
 
