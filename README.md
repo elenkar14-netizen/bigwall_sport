@@ -60,6 +60,8 @@ https://elenkar14-netizen.github.io/bigwall_sport/gavan.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/newbies_1year.html
 
+https://elenkar14-netizen.github.io/bigwall_sport/gavan2.html
+
 
 HTML email template for **BigWall Sport**, a climbing gym chain.
 
