@@ -62,7 +62,7 @@ https://elenkar14-netizen.github.io/bigwall_sport/newbies_1year.html
 
 https://elenkar14-netizen.github.io/bigwall_sport/gavan2.html
 
-https://elenkar14-netizen.github.io/bigwall_sport/masters_start.html
+https://elenkar14-netizen.github.io/bigwall_sport/masters27_start.html
 
 HTML email template for **BigWall Sport**, a climbing gym chain.
 
