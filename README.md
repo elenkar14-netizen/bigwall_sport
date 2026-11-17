@@ -1,105 +1,116 @@
-# BigWall Sport Email Template
+# BigWall Sport: email-рассылки
 
-https://elenkar14-netizen.github.io/bigwall_sport/corporate-training.html
+HTML-письма Бигвола (сеть скалодромов) для рассылок в UniSender.
 
-https://elenkar14-netizen.github.io/bigwall_sport/
+**Каталог со всеми письмами:** https://elenkar14-netizen.github.io/bigwall_sport/catalog.html
 
-https://elenkar14-netizen.github.io/bigwall_sport/21-days-v1.html
+Чтобы посмотреть письмо, откройте ссылку в колонке «Просмотр». Ссылки на файлы не меняются, их можно вставлять в отчёты.
 
-https://elenkar14-netizen.github.io/bigwall_sport/21days.html
+## Содержание
 
-https://elenkar14-netizen.github.io/bigwall_sport/app.html
+1. [Пробное занятие: welcome-цепочка](#пробное-занятие-welcome-цепочка)
+2. [Реализация: возвращаем ушедших](#реализация-возвращаем-ушедших)
+3. [Абонемент на 21 занятие](#абонемент-на-21-занятие)
+4. [Годовой абонемент за 30 000 ₽](#годовой-абонемент-за-30-000)
+5. [БИГВОЛ МАСТЕРС 2026 (16–18 октября)](#бигвол-мастерс-2026-1618-октября)
+6. [БИГВОЛ МАСТЕРС 27 (6–8 марта)](#бигвол-мастерс-27-68-марта)
+7. [Залы и новости](#залы-и-новости)
+8. [Продукты, скидки и сервис](#продукты-скидки-и-сервис)
 
-https://elenkar14-netizen.github.io/bigwall_sport/1stage.html
+## Пробное занятие: welcome-цепочка
 
-https://elenkar14-netizen.github.io/bigwall_sport/21-days-v2.html
+Письма после записи на первое занятие и до покупки абонемента
 
-https://elenkar14-netizen.github.io/bigwall_sport/3_trial-session.html
+| Письмо | Тема | Прехедер | Просмотр |
+|---|---|---|---|
+| Письмо 1. Записан на пробное | Вы записаны в Бигвол — готовимся к первой трассе |  | [1_trial-session.html](https://elenkar14-netizen.github.io/bigwall_sport/1_trial-session.html) |
+| Письмо 1, версия 2 | Вы записаны в Бигвол — впереди первая трасса | Что взять с собой и три подсказки для первого занятия | [1_trial-sessionv2.html](https://elenkar14-netizen.github.io/bigwall_sport/1_trial-sessionv2.html) |
+| Письмо 2. После первого визита | Первая трасса позади. Продолжим лазать? | Три идеи для второго визита на скалодром | [2_trial-session.html](https://elenkar14-netizen.github.io/bigwall_sport/2_trial-session.html) |
+| Письмо 3. 4 тренировки за полцены | 4 тренировки с тренером за полцены | Ещё 9 дней: абонемент на 4 групповые тренировки со скидкой 50% | [3_trial-session.html](https://elenkar14-netizen.github.io/bigwall_sport/3_trial-session.html) |
+| Дожим: записаться на первую тренировку | Остался один шаг — первая тренировка | Не ждите подходящего момента — просто выберите занятие и приходите. | [trial_training.html](https://elenkar14-netizen.github.io/bigwall_sport/trial_training.html) |
 
-https://elenkar14-netizen.github.io/bigwall_sport/1_trial-session.html
+## Реализация: возвращаем ушедших
 
-https://elenkar14-netizen.github.io/bigwall_sport/2_trial-session.html
+Цепочка из трёх писем для тех, кто давно не приходил (ноябрь 2026)
 
-https://elenkar14-netizen.github.io/bigwall_sport/student.html
+| Письмо | Тема | Прехедер | Просмотр |
+|---|---|---|---|
+| Письмо 1. Как ты там? | Как ты там? | Давно не виделись! | [realization_1.html](https://elenkar14-netizen.github.io/bigwall_sport/realization_1.html) |
+| Письмо 2. Новости залов | У нас тут новости. И все хорошие! | Пока тебя не было… | [realization_2.html](https://elenkar14-netizen.github.io/bigwall_sport/realization_2.html) |
+| Письмо 3. 5 заданий на следующий поход | Совет дня от Шварценеггера | Возвращаемся красиво! | [realization_3.html](https://elenkar14-netizen.github.io/bigwall_sport/realization_3.html) |
 
-https://elenkar14-netizen.github.io/bigwall_sport/coach.html
+## Абонемент на 21 занятие
 
-https://elenkar14-netizen.github.io/bigwall_sport/dinamo.html
+Летняя акция (июнь–июль), акция на Динамо (август) и сентябрьская волна
 
-https://elenkar14-netizen.github.io/bigwall_sport/dinamo_open.html
+| Письмо | Тема | Прехедер | Просмотр |
+|---|---|---|---|
+| Июнь: напоминание, до 1 июля | Напоминание про абонемент на 21 занятие — только до 1 июля | Предложение открыто только до 1 июля — не дай ему затеряться | [21days.html](https://elenkar14-netizen.github.io/bigwall_sport/21days.html) |
+| Июнь: напоминание, версия 1 | Напоминание про абонемент на 21 занятие — только до 1 июля | Предложение открыто только до 1 июля — не дай ему затеряться | [21-days-v1.html](https://elenkar14-netizen.github.io/bigwall_sport/21-days-v1.html) |
+| Июль: продлили до 6 июля | Продлили до 6 июля — абонемент на 21 занятие | Абонемент на 21 занятие продлён до 6 июля включительно. | [21-days-v2.html](https://elenkar14-netizen.github.io/bigwall_sport/21-days-v2.html) |
+| Август: 21 занятие на Динамо | 21 занятие, чтобы залезть выше — Бигвол | Абонемент действует год. Продажи открыты до 15 августа | [dinamo.html](https://elenkar14-netizen.github.io/bigwall_sport/dinamo.html) |
+| Сентябрь: 21 повод прийти | 21 повод прийти на стену | 750 ₽ за посещение, до 30 сентября | [21_subscription_180926.html](https://elenkar14-netizen.github.io/bigwall_sport/21_subscription_180926.html) |
+| Сентябрь: осталось 2 дня | Абонемент на 21 посещение: осталось 2 дня | 21 посещение за 15 750 ₽, до 30 сентября | [2day_sale.html](https://elenkar14-netizen.github.io/bigwall_sport/2day_sale.html) |
 
-https://elenkar14-netizen.github.io/bigwall_sport/trial_training.html
+## Годовой абонемент за 30 000 ₽
 
-https://elenkar14-netizen.github.io/bigwall_sport/student2.html
+Акция октября–ноября 2026
 
-https://elenkar14-netizen.github.io/bigwall_sport/21_subscription_180926.html
+| Письмо | Тема | Прехедер | Просмотр |
+|---|---|---|---|
+| Анонс для своих, версия 1 | Целый год лазания за 30 000 ₽ | Ранняя распродажа только для своих: 30 000 ₽ за 12 месяцев лазания | [year_offer.html](https://elenkar14-netizen.github.io/bigwall_sport/year_offer.html) |
+| Анонс для своих, версия 2 | Целый год лазания за 30 000 ₽ | Ранняя распродажа только для своих: 30 000 ₽ за 12 месяцев лазания | [year_offer_2.html](https://elenkar14-netizen.github.io/bigwall_sport/year_offer_2.html) |
+| Студентам | Кажется, пора определиться | Мы про тебя и Бигвол. Годовой безлимит — 30 000 ₽ | [students_year.html](https://elenkar14-netizen.github.io/bigwall_sport/students_year.html) |
+| Новичкам, продление до 22 ноября | Целый год лазания за 30 000 ₽ | С годовым посещение стоит около 580 ₽. До 22 ноября | [newbies_1year.html](https://elenkar14-netizen.github.io/bigwall_sport/newbies_1year.html) |
 
-https://elenkar14-netizen.github.io/bigwall_sport/masters_1.html
+## БИГВОЛ МАСТЕРС 2026 (16–18 октября)
 
-https://elenkar14-netizen.github.io/bigwall_sport/false_start.html
+Регистрация, напоминания и письма после соревнований
 
-https://elenkar14-netizen.github.io/bigwall_sport/masters_newbies.html
+| Письмо | Тема | Прехедер | Просмотр |
+|---|---|---|---|
+| Фальстарт: регистрация позже | Фальстарт! Регистрация на БИГВОЛ МАСТЕРС — 20 сентября в 00:00 | Письмо сорвалось раньше сигнала. Настоящий старт позже | [false_start.html](https://elenkar14-netizen.github.io/bigwall_sport/false_start.html) |
+| Регистрация открыта | БИГВОЛ МАСТЕРС — регистрация открыта | 100 мест в сете, 10 сетов на три дня. Забирайте свой, пока он свободен 👀 | [masters_1.html](https://elenkar14-netizen.github.io/bigwall_sport/masters_1.html) |
+| Напоминание: выберите сет | БИГВОЛ МАСТЕРС, 16–18 октября | Соревнования в «Ривере» уже скоро. Выберите сет и зарегистрируйтесь. | [masters_2.html](https://elenkar14-netizen.github.io/bigwall_sport/masters_2.html) |
+| Новичкам: ваш слот ждёт | Ваш слот на Мастерс ждёт вас | 16–18 октября. Выберите удобный день и приходите | [masters_newbies.html](https://elenkar14-netizen.github.io/bigwall_sport/masters_newbies.html) |
+| Спасибо за Мастерс (пришедшим) | Спасибо за Мастерс | Фото с трёх дней уже в галерее. Найдите себя на стене! | [masters_thanks.html](https://elenkar14-netizen.github.io/bigwall_sport/masters_thanks.html) |
+| Не пришедшим: промокод −10% | Следующий старт — ваш | Впереди новые старты, а для тренировок — промокод на −10% | [noshow_masters10.html](https://elenkar14-netizen.github.io/bigwall_sport/noshow_masters10.html) |
 
-https://elenkar14-netizen.github.io/bigwall_sport/2day_sale.html
+## БИГВОЛ МАСТЕРС 27 (6–8 марта)
 
-https://elenkar14-netizen.github.io/bigwall_sport/1_trial-sessionv2.html
+Старт продаж
 
-https://elenkar14-netizen.github.io/bigwall_sport/masters_2.html
+| Письмо | Тема | Прехедер | Просмотр |
+|---|---|---|---|
+| Старт продаж: общая база | Старт продаж БИГВОЛ МАСТЕРС 27 | 6–8 марта, 100 новых трасс. До 30 ноября слот за 3500 ₽ | [masters27_start.html](https://elenkar14-netizen.github.io/bigwall_sport/masters27_start.html) |
+| Старт продаж: участникам прошлого Мастерса | Второй раунд Мастерс | 6–8 марта, 100 новых трасс. До 30 ноября слот за 3500 ₽ | [masters27_start.participants.html](https://elenkar14-netizen.github.io/bigwall_sport/masters27_start.participants.html) |
 
-https://elenkar14-netizen.github.io/bigwall_sport/masters_thanks.html
+## Залы и новости
 
-https://elenkar14-netizen.github.io/bigwall_sport/noshow_masters10.html
+Открытия, накрутки и события в залах
 
-https://elenkar14-netizen.github.io/bigwall_sport/year_offer.html
+| Письмо | Тема | Прехедер | Просмотр |
+|---|---|---|---|
+| Лужники открыты (летний сезон) | Бигвол в Лужниках открыт |  | [index.html](https://elenkar14-netizen.github.io/bigwall_sport/index.html) |
+| Динамо 2.0: открытие 27 августа | Динамо 2.0 — открытие 27 августа | Обновлённый зал на Динамо открывается полноценно 27 августа. И −10% на все абонементы по промокоду РЕМОНТИЩЕ. | [dinamo_open.html](https://elenkar14-netizen.github.io/bigwall_sport/dinamo_open.html) |
+| Гавань: 50 трасс без категорий | 50 трасс, и ни одного указателя | Весь ноябрь лазаем трассы по номерам и угадываем категории | [gavan.html](https://elenkar14-netizen.github.io/bigwall_sport/gavan.html) |
+| Гавань: рассказ рутсеттера Вани | Что мы сделали в Гавани | Это Ваня, рутсеттер. Рассказываю про эксперимент в Гавани | [gavan2.html](https://elenkar14-netizen.github.io/bigwall_sport/gavan2.html) |
 
-https://elenkar14-netizen.github.io/bigwall_sport/year_offer_2.html
+## Продукты, скидки и сервис
 
-https://elenkar14-netizen.github.io/bigwall_sport/students_year.html
+Тренировки, приложение, студенческие скидки, B2B
 
-https://elenkar14-netizen.github.io/bigwall_sport/gavan.html
+| Письмо | Тема | Прехедер | Просмотр |
+|---|---|---|---|
+| Курс «Первая ступень» | Перестаём тянуть себя руками — Бигвол | Новый поток «Первая ступень»: 4 занятия по технике в Ривьере. Старт 6 июля — мест немного. | [1stage.html](https://elenkar14-netizen.github.io/bigwall_sport/1stage.html) |
+| 4 персональные тренировки | Абонемент, которого нет на сайте — Бигвол | 4 персональные тренировки с тренером — 15 200 ₽. | [coach.html](https://elenkar14-netizen.github.io/bigwall_sport/coach.html) |
+| Приложение и 300 баллов | Бигвол теперь в приложении — скачайте и получите 300 баллов | Расписание, запись, бонусы и абонемент — всё в телефоне. За установку начислим 300 баллов. | [app.html](https://elenkar14-netizen.github.io/bigwall_sport/app.html) |
+| Студентам: −10% летом | Скидка 10% на ваш абонемент этим летом | Показываем, где найти скидку 10% в приложении. | [student.html](https://elenkar14-netizen.github.io/bigwall_sport/student.html) |
+| Студентам: −10% на второй заход | У вас есть −10% на второй заход | Скидка на студенческие абонементы и разовые проходки | [student2.html](https://elenkar14-netizen.github.io/bigwall_sport/student2.html) |
+| Корпоративные тренировки | BigWall — Корпоративные тренировки |  | [corporate-training.html](https://elenkar14-netizen.github.io/bigwall_sport/corporate-training.html) |
 
-https://elenkar14-netizen.github.io/bigwall_sport/newbies_1year.html
+## Как добавить новое письмо
 
-https://elenkar14-netizen.github.io/bigwall_sport/gavan2.html
-
-https://elenkar14-netizen.github.io/bigwall_sport/masters27_start.html
-
-https://elenkar14-netizen.github.io/bigwall_sport/masters27_start.participants.html
-
-https://elenkar14-netizen.github.io/bigwall_sport/realization_1.html
-
-https://elenkar14-netizen.github.io/bigwall_sport/realization_2.html
-
-https://elenkar14-netizen.github.io/bigwall_sport/realization_3.html
-
-HTML email template for **BigWall Sport**, a climbing gym chain.
-
-
-The project contains a ready-to-use email layout created for CRM and promotional communication. The email can be adapted for newsletters, announcements, seasonal campaigns, special offers, and customer retention flows.
-
-## Project Overview
-
-This email template was created for a climbing gym network and focuses on a clear structure, readable content, and a strong visual presentation of the brand.
-
-The layout can be used for:
-
-- Promotional email campaigns
-- CRM communication
-- Event announcements
-- Location-based offers
-- Seasonal campaigns
-- Welcome or reactivation emails
-
-## Technologies
-
-- HTML
-- CSS
-- Responsive email layout
-
-## Project Structure
-
-```text
-bigwall_sport/
-│
-├── index.html      # Main email template
-└── README.md       # Project description
+1. Положите HTML-файл в корень репозитория.
+2. Добавьте строку в нужный раздел этого README.
+3. Добавьте письмо в `catalog.html` в тот же раздел.
