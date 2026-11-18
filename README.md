@@ -79,12 +79,13 @@ HTML-письма Бигвола (сеть скалодромов) для рас
 
 ## БИГВОЛ МАСТЕРС 27 (6–8 марта)
 
-Старт продаж
+Старт продаж и напоминания
 
 | Письмо | Тема | Прехедер | Просмотр |
 |---|---|---|---|
 | Старт продаж: общая база | Старт продаж БИГВОЛ МАСТЕРС 27 | 6–8 марта, 100 новых трасс. До 30 ноября слот за 3500 ₽ | [masters27_start.html](https://elenkar14-netizen.github.io/bigwall_sport/masters27_start.html) |
 | Старт продаж: участникам прошлого Мастерса | Второй раунд Мастерс | 6–8 марта, 100 новых трасс. До 30 ноября слот за 3500 ₽ | [masters27_start.participants.html](https://elenkar14-netizen.github.io/bigwall_sport/masters27_start.participants.html) |
+| Напоминание: цена до 30 ноября | {{Name}}, классная цена на Мастерс до 30 ноября | С 1 декабря слот подорожает до 4200 ₽. Успей занять удобный сет | [masters27_reminder.html](https://elenkar14-netizen.github.io/bigwall_sport/masters27_reminder.html) |
 
 ## Залы и новости
 
