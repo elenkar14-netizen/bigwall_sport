@@ -28,6 +28,7 @@ HTML-письма Бигвола (сеть скалодромов) для рас
 | Письмо 2. После первого визита | Первая трасса позади. Продолжим лазать? | Три идеи для второго визита на скалодром | [2_trial-session.html](https://elenkar14-netizen.github.io/bigwall_sport/2_trial-session.html) |
 | Письмо 3. 4 тренировки за полцены | 4 тренировки с тренером за полцены | Ещё 9 дней: абонемент на 4 групповые тренировки со скидкой 50% | [3_trial-session.html](https://elenkar14-netizen.github.io/bigwall_sport/3_trial-session.html) |
 | Дожим: записаться на первую тренировку | Остался один шаг — первая тренировка | Не ждите подходящего момента — просто выберите занятие и приходите. | [trial_training.html](https://elenkar14-netizen.github.io/bigwall_sport/trial_training.html) |
+| Гид новичка: первый месяц | {{Name}}, твой гид новичка в Бигволе | Что взять с собой, как подобрать скальники и выбрать первые трассы | [newbies_guide.html](https://elenkar14-netizen.github.io/bigwall_sport/newbies_guide.html) |
 
 ## Возвращаем ушедших
 
